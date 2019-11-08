@@ -1,12 +1,19 @@
 # headsup-calculator
 Poker Equitity calculator Texas for holdem heads up
 
+
+
+
 How to use:
-on the file "hu-range-equitity-calculator.js" use the function ex: 
+
+on the file "hu-range-equitity-calculator.js" use the function rangeVersusRange(heroRange, vilainRange) 
+example: 
 rangeVersusRange(["Ako", "TT","KQs"], ["22", "33", "98s"])
 
-There is a server(server.js) and client(hu-equitity-calculator.html) for use the calculator.
-Just pass your div and de url of your server ex:
+There is a server(server.js) and client(hu-equitity-calculator.html) for use the calculator on your computer
+Just pass your div and de url of your server
+
+example:
 getView(document.getElementById('range-calculator'), "http://localhost:3000/");
 
 
