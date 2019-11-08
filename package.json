@@ -1,0 +1,32 @@
+{
+  "name": "pokerhucalc",
+  "version": "1.0.0",
+  "description": "Poker Equitity Calculator",
+  "main": "hu-range-equitity-calculator-data-generator-utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviorcb/headsup-calculator.git"
+  },
+  "keywords": [
+    "Poker",
+    "Heads-up",
+    "Texas",
+    "Holdem",
+    "equity"
+  ],
+  "author": "Flávio Rodrigo Costa Bezerra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviorcb/headsup-calculator/issues"
+  },
+  "homepage": "https://github.com/flaviorcb/headsup-calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pec": "^0.7.0"
+  }
+}
