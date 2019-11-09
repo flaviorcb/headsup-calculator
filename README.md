@@ -1,5 +1,5 @@
 # headsup-calculator
-Poker Equitity calculator Texas for holdem heads up
+Texas Holdem Poker Equitity calculator for heads up
 
 ![Image description](printCalc.png)
 
